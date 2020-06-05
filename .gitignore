@@ -1,0 +1,8 @@
+# Project exclude paths
+/microcloud-api/target/
+/microcloud-consumer/target/
+/microcloud-eureka/target/
+/microcloud-eureka2/target/
+/microcloud-eureka3/target/
+/microcloud-provider-product/target/
+/microcloud-security/target/
