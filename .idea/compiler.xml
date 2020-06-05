@@ -13,6 +13,8 @@
         <module name="microcloud-eureka3" />
         <module name="microcloudapi" />
         <module name="microcloudconsumer" />
+        <module name="microcloud-provider-product3" />
+        <module name="microcloud-provider-product2" />
       </profile>
     </annotationProcessing>
   </component>
