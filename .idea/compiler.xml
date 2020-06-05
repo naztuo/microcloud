@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microcloudeureka" />
+        <module name="microcloud-consumer-feign" />
         <module name="microcloudsecurity" />
         <module name="microcloud-eureka2" />
         <module name="microcloudproviderproduct" />
+        <module name="microcloudservice" />
         <module name="microcloud-eureka3" />
+        <module name="microcloud-consumer-ribbon" />
         <module name="microcloudapi" />
         <module name="microcloudconsumer" />
         <module name="microcloud-provider-product3" />
